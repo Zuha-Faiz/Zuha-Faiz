@@ -1,16 +1,43 @@
-## Hi there 👋
+## Hi, I'm Zuha Faiz 👋 
 
-<!--
-**Zuha-Faiz/Zuha-Faiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineering student 
+Passionate about Artificial Intelligence, Machine Learning, and Computer Vision.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Software Engineering Student
+- 🤖 Interested in AI, Machine Learning, and Computer Vision
+- 💻 Building projects using Python, OpenCV, TensorFlow, and Scikit-Learn
+- 🌱 Currently learning Deep Learning and Computer Vision
+- 📫 Reach me at: zuhafaiz775@gmail.com
+
+---
+
+## 🛠️ Tech Stack & Ecosystem
+
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | Python, C#, C++, SQL|
+| **AI / Machine Learning** | OpenCV, PyTorch, TensorFlow, Scikit-Learn, NumPy, Pandas |
+| **Web & Frameworks** | ASP.NET Core MVC, Microsoft Identity Framework |
+| **DevOps & Testing** | Git, Jenkins CI/CD, Selenium Automation, Jira |
+| **Data & Databases** | Microsoft SQL Server, Oracle Database |
+
+---
+
+## 📈 Current Goals
+
+- Build real-world AI/ML projects
+- Contribute to open source
+- Participate in Kaggle competitions
+- Secure an AI/ML or Computer Vision internship
+
+---
+
+## 🔗 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/zuha-faiz/
+- GitHub: https://github.com/Zuha-Faiz
+
+---
+⭐ Always learning and building.
