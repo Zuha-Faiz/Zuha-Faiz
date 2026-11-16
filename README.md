@@ -1,14 +1,14 @@
 ## Hi, I'm Zuha Faiz 👋 
 
 ### Software Engineering student 
-Passionate about Artificial Intelligence, Machine Learning, and Computer Vision.
+Passionate about Software Development and Artificial Intelligence.
 
 ## 🚀 About Me
 
 - 🎓 Software Engineering Student
-- 🤖 Interested in AI, Machine Learning, and Computer Vision
-- 💻 Building projects using Python, OpenCV, TensorFlow, and Scikit-Learn
-- 🌱 Currently learning Deep Learning and Computer Vision
+- 🤖 Interested in AI, Machine Learning
+- 💻 Building projects using Python, OpenCV, Docling.
+- 🌱 Currently Rag and Agentic AI
 - 📫 Reach me at: zuhafaiz775@gmail.com
 
 ---
